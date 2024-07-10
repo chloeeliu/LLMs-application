@@ -37,8 +37,8 @@ some badcase:
 
 ## Technologies Used
 
- ![plot](https://github.com/chloeeliu/LLMs-application/blob/88cac3b68fd5ae6255f35664eddbd33339ded823/image/attributes/5.png)
 
+ ![plot](https://github.com/chloeeliu/LLMs-application/blob/d3b0104dce2108766448f81a3da68b769cebec12/image/attributes/5.png)
 
 - CLIP: Utilized for trend mining and relevant product recall based on keyword searches
 
