@@ -1,4 +1,4 @@
 
 # Introduction
 
-![plot](image/rag/1.png)
+![plot](image/rag/1.jpg)
