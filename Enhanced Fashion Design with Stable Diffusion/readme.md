@@ -7,6 +7,9 @@
 
  
 
+ ![plot](https://github.com/chloeeliu/LLMs-application/blob/4dbcbd6a6cc1f12e0ee14b5b1098e042c6884fee/image/sd/f8bdd457-2193-48ea-82d4-1bcf7767705e.png)
+
+
 This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:
 
 - Pattern Generation: AI creates unique apparel patterns.
@@ -26,6 +29,10 @@ This project utilizes Stable Diffusion to innovate fashion design and presentati
  
 
 ## Achievement
+
+
+ ![plot](https://github.com/chloeeliu/LLMs-application/blob/4dbcbd6a6cc1f12e0ee14b5b1098e042c6884fee/image/sd/2e9ab52f-7d92-4f9e-9cf7-c9c1120b3572.png)
+
 
 - Scalability: Successfully implemented in 9 different scenarios, demonstrating the versatility and adaptability of the technology across various fashion contexts.
 
